@@ -1,4 +1,4 @@
-# Akka StreamsでSQSからメッセージを取得するワーカーのサンプル
+# Akka Streamsで構築したSQSからメッセージを取得するジョブワーカーのサンプル
 
 ## ローカル実行
 1. Elastic MQ起動
